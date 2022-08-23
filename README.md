@@ -52,8 +52,8 @@ The inspiration for freeAGENT comes entirely from our passion for fostering conn
 ## Status
 
 ### Our next update will include new features that will reimagine the way job candidates showcase their origin stories & career journeys:
-* **Conversations**: Powered by Twilio's Conversations API
-* **30-Second Self-Intro Videos**: Powered by Twilio's Video API
+* **Conversations**
+* **30-Second Self-Intro Videos**
 * **Advanced Search Filters**: ED&I attributes to help recruiters more easily discover diverse talent
 * and more!
 
